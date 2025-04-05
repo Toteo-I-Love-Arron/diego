@@ -1,0 +1,5 @@
+# Create or edit .gitignore in your project root
+echo "token.env" >> .gitignore
+
+# Verify it was added
+cat .gitignore
